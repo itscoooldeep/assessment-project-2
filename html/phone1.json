@@ -1,0 +1,37 @@
+{
+    "phone": [
+     
+       {
+          "id":"1",
+          "name": "Redmi note 9 pro",
+          "img": "img/redminote9pro.jpg",
+          "prize": "1666",
+          "Storage": "64GB"
+       },
+     
+       {
+         "id":"3",
+         "name": "redmi note 8",
+         "prize": "16666",
+         "Storage": "64GB"
+       },
+       {
+         "id":"4",
+         "name": "poco",
+         "prize": "16666",
+         "Storage": "64GB"
+       },
+       {
+         "id":"5",
+         "name": "Real me 5i",
+         "prize": "16666",
+         "Storage": "64GB"
+       },
+       {
+         "id":"6",
+         "name": "Mi A3",
+         "prize": "16666",
+         "Storage": "64GB"
+       }
+    ]
+ }
